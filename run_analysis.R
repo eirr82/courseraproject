@@ -76,6 +76,7 @@ subject_train <- read.table("~/data/tidy data project/getdata-projectfiles-UCI H
   datatoreshape <- cbind(ysubject.final, meansStdData)
 
 # Take mean of observations per activity per subject. (dim-180*68). 
+  library(reshape2)
 
   datasorted <- melt(datatoreshape,  id=c("Activity", "Subject"), )
 
