@@ -24,6 +24,9 @@ Script
 
 ======
 
+To use this script you have to change the working directory for your actually working directory (directory on you have stored the data set), and have to change the load part directory in my code for your own directory.
+
+
 The finality of this script named run_analysis.R is collect diferent datasets, merge them and cleaning to get a tidy 
 and an accurate data to work with it.
 
