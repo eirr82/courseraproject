@@ -1,0 +1,7 @@
+Hi, for open the result of the script I submit, you have to open this file from inside excel, if you don't see the file in your directory
+, just change .excelfiles for allfiles to see all the files in the directory where you have stored that file.
+
+If you open from file you have a dissarranged table(maybe format problems of how excel open txt directly)
+
+
+Thank you
